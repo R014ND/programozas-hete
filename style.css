@@ -1,0 +1,23 @@
+.stuff{
+    margin-top: 10px;
+    margin-bottom: 10px; 
+    width: 800px;
+}
+
+#solve{
+    margin-bottom: 10px;
+    font-size: 30px;
+    width: 100%;
+}
+
+#startbtn{
+    margin-bottom: 10px;
+    font-size: 20px;
+    width: 50%;
+}
+
+input{
+    margin-bottom: 10px;
+    font-size: 20px;
+    width: 48.5%;
+}
